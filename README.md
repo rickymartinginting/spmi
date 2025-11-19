@@ -21,5 +21,5 @@ Dengan aplikasi ini diharapkan dapat mempermudah pihak kampus dalam menangani pe
 
 ## Kontribusi
 
-Terimakasih untuk kamu yang ingin berkontribusi dalam pengembangan dan penggunaan aplikasi ini, kamu dapat menyalurkan dana yang kamu inginkan melalui [rekening bank kami](https://rickyginting.github.io/). Atau kamu dapat berteman dengan saya melalui Instagram [@rickymartinginting](https://instagram.com/rickymartinginting)
+Terimakasih untuk kamu yang ingin berkontribusi dalam pengembangan dan penggunaan aplikasi ini, kamu dapat menyalurkan dana yang kamu inginkan melalui [rekening bank kami](https://rickymartinginting.github.io/). Atau kamu dapat berteman dengan saya melalui Instagram [@rickymartinginting](https://instagram.com/rickymartinginting)
 
